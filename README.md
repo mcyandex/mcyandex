@@ -2,17 +2,10 @@
 
 <h3 align="center"> <b>AI Developer</b> || <b>Web Developer</b></h3>
 
-<div align="center">
-<img src="https://img.freepik.com/free-vector/friendly-robot-floating-space_1308-161934.jpg?ga=GA1.1.1931419593.1720314875&semt=ais_user" style="width: 18vw; height: 18vw; border-radius: 10px" /></div>
-
-<br>
-
 ### 😎 About Me
 
 #### With over 6 years of experience as a full-stack developer, I have specialized in front-end frameworks such as React and Vue.js, back-end development using Node.js and Python and MongoDB for database management.
-
 #### Over the past four years, I have been developing a passion for AI development, especially in Python
-
 #### This dual expertise allows me to provide comprehensive solutions that integrate advanced web development and cutting-edge AI capabilities.
 
 <br>
