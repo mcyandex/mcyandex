@@ -4,10 +4,10 @@
 
 ### 😎 About Me
 
-#### With over 6 years of experience as a full-stack developer, I have specialized in front-end frameworks such as React and Vue.js, back-end development using Node.js and Python and MongoDB for database management.
-#### Over the past four years, I have been developing a passion for AI development, especially in Python
-#### This dual expertise allows me to provide comprehensive solutions that integrate advanced web development and cutting-edge AI capabilities.
-
+I am an AI and web expert with huge experience in natural language processing, web development, and digital technologies.<br>
+My expertise includes developing and deploying AI models, creating and managing web applications, and integrating advanced algorithms for data analysis and user interaction.<br>
+I possess strong skills in programming languages such as Python, JavaScript, PHP and I am proficient in using frameworks like Langchain, Node.js, Django, React and Vue.js.<br>
+My background in AI research and practical implementation allows me to deliver innovative solutions that enhance user experiences and drive business success.
 <br>
 
 ### 💻 My Core Skills:
