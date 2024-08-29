@@ -17,11 +17,11 @@ My background in AI research and practical implementation allows me to deliver i
 <table align="center">
 <tr>
   <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="Javascript" width="45" height="45" />
+      <img src="https://skillicons.dev/icons?i=js" alt="Javascript" width="45" height="45" />
       <br>Javascript
   </td>
-  <td align="center" width="90">`
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="Typescript" width="45" height="45" />
+  <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=ts" alt="Typescript" width="45" height="45" />
       <br>Typescript
   </td>
   <td align="center" width="90">
@@ -51,7 +51,7 @@ My background in AI research and practical implementation allows me to deliver i
 </tr>
 <tr>
   <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="45" height="45" />
+      <img src="https://skillicons.dev/icons?i=react" alt="React" width="45" height="45" />
       <br>React
   </td>
   <td align="center" width="90">
@@ -97,7 +97,7 @@ My background in AI research and practical implementation allows me to deliver i
       <br>Nest.js
   </td>
   <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="45" height="45" />
+      <img src="https://skillicons.dev/icons?i=django" alt="icon" width="45" height="45" />
       <br>Django
   </td>
   <td align="center" width="90">
