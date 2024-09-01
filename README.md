@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">&nbsp;Hi, I am Miguel Cano&nbsp;</h1>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">&nbsp;Hi, there&nbsp;</h1>
 
 <h3 align="center"> <b>Senior AI Developer</b> || <b>Full Stack Developer</b></h3>
 
