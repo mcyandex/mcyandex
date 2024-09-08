@@ -6,7 +6,7 @@
 
 I am an AI and web expert with huge experience in natural language processing, web development, and digital technologies.<br>
 My expertise includes developing and deploying AI models, creating and managing web applications, and integrating advanced algorithms for data analysis and user interaction.<br>
-I possess strong skills in programming languages such as JavaScript, PHP, Python, Java and I am proficient in using frameworks like Langchain, Node.js, React, Vue.js and Angular.<br>
+I possess strong skills in programming languages such as JavaScript, PHP, Python and I am proficient in using frameworks like Langchain, Node.js, React, Vue.js and Angular.<br>
 My background in AI research and practical implementation allows me to deliver innovative solutions that enhance user experiences and drive business success.
 <br>
 
@@ -32,21 +32,13 @@ My background in AI research and practical implementation allows me to deliver i
       <img src="https://skillicons.dev/icons?i=py" alt="Python" width="45" height="45" />
       <br>Python
   </td>
-  <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=java" alt="Java" width="45" height="45" />
-      <br>Java
+   <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="45" height="45" alt="tensorflow" />
+      <br>Tensorflow
   </td>
   <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=cs" width="45" height="45" alt="C#" />
-        <br>C#
-  </td>
-  <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=go" width="45" height="45" alt="Go" />
-        <br>Go
-  </td>
-  <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Rust" />
-        <br>Rust
+      <img src="https://skillicons.dev/icons?i=pytorch" width="45" height="45" alt="pytorch" />
+      <br>Pytorch
   </td>
 </tr>
 <tr>
@@ -74,14 +66,7 @@ My background in AI research and practical implementation allows me to deliver i
       <img src="https://skillicons.dev/icons?i=webflow" width="45" height="45" alt="Webflow" />
       <br>Webflow
   </td>
-  <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=wordpress" width="45" height="45" alt="rails" />
-      <br>WordPress
-  </td>
-  <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=threejs" width="45" height="45" alt="Three.js" />
-      <br>Three.js
-  </td>
+
 </tr>
 <tr>
    <td align="center" width="90">
@@ -101,10 +86,6 @@ My background in AI research and practical implementation allows me to deliver i
       <br>Django
   </td>
   <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=flask" alt="icon" width="45" height="45" />
-      <br>Flask
-  </td>
-  <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=fastapi" width="45" height="45" alt="Flutter" />
       <br>FastAPI
   </td> 
@@ -112,12 +93,12 @@ My background in AI research and practical implementation allows me to deliver i
       <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="laravel" />
       <br>Laravel
   </td> 
-  <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="45" height="45" />
-        <br>RestAPI
-  </td>
 </tr>
 <tr>  
+  <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=wordpress" width="45" height="45" alt="rails" />
+      <br>WordPress
+  </td>
   <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="mysql" />
       <br>MySQL
@@ -138,17 +119,6 @@ My background in AI research and practical implementation allows me to deliver i
       <img src="https://skillicons.dev/icons?i=azure" width="45" height="45" alt="azure" />
       <br>Azure
   </td>
-  <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=opencv" width="45" height="45" alt="Opencv" />
-      <br>Opencv
-  </td>
-  <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=tensorflow" width="45" height="45" alt="tensorflow" />
-      <br>Tensorflow
-  </td>
-  <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=pytorch" width="45" height="45" alt="pytorch" />
-      <br>Pytorch
-  </td>
+ 
 </tr>
 </table>
