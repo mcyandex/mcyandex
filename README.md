@@ -1,13 +1,12 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">&nbsp;Hi, there&nbsp;</h1>
 
-<h3 align="center"> <b>Senior AI Developer</b> || <b>Full Stack Developer</b></h3>
+<h3 align="center"> <b>Senior Software Engineer</b></h3>
 
 ### 😎 About Me
 
-I am an AI and web expert with huge experience in natural language processing, web development, and digital technologies.<br>
+I am an AI and Full Stack expert with huge experience in natural language processing, web development, and digital technologies.<br>
 My expertise includes developing and deploying AI models, creating and managing web applications, and integrating advanced algorithms for data analysis and user interaction.<br>
 I possess strong skills in programming languages such as JavaScript, PHP, Python, Java and I am proficient in using frameworks like Langchain, Node.js, React, Vue.js and Angular.<br>
-My background in AI research and practical implementation allows me to deliver innovative solutions that enhance user experiences and drive business success.
 <br>
 
 ### 💻 My Core Skills:
